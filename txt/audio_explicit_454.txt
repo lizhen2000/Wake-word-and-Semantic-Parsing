@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=散热器
+finished_part=入口管
+target=时间
+explicit_weight=0.7700
+ugency_level=NULL

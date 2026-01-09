@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=安全气囊系统
+finished_part=线束连接器
+target=利润
+explicit_weight=0.9400
+ugency_level=NULL

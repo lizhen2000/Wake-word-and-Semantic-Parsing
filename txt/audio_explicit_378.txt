@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=交流发电机
+finished_part=滑轮
+target=利润
+explicit_weight=0.9100
+ugency_level=NULL

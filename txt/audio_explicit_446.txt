@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=充电模块
+finished_part=EMI滤波器
+target=利润
+explicit_weight=0.8700
+ugency_level=NULL

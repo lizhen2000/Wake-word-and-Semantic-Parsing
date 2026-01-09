@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=喷油器
+finished_part=喷嘴
+target=时间
+explicit_weight=0.7600
+ugency_level=NULL

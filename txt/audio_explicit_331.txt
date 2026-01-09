@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电动窗电机
+finished_part=连接器
+target=时间
+explicit_weight=0.6000
+ugency_level=NULL

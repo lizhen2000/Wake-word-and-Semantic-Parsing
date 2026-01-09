@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=冷却风扇
+finished_part=第二片叶片
+target=时间
+explicit_weight=0.6100
+ugency_level=NULL

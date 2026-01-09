@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电动助力转向泵
+finished_part=转子
+target=时间
+explicit_weight=0.9400
+ugency_level=NULL

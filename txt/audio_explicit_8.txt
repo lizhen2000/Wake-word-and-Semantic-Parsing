@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=ECU控制单元
+finished_part=输入连接器
+target=时间
+explicit_weight=0.9500
+ugency_level=NULL

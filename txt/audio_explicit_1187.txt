@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=前照灯总成
+finished_part=投影仪
+target=时间
+explicit_weight=0.9000
+ugency_level=NULL

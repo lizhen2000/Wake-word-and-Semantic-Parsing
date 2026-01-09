@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=冷却风扇
+finished_part=齿轮组
+target=碳排放
+explicit_weight=0.7900
+ugency_level=NULL

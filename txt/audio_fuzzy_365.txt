@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=点火线圈
+finished_part=铁芯核心
+target=碳排放
+explicit_weight=NULL
+ugency_level=非常重要

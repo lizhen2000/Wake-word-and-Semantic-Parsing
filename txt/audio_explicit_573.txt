@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电池充电器
+finished_part=插头
+target=时间
+explicit_weight=0.7200
+ugency_level=NULL

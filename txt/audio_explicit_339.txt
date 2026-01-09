@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=氧传感器
+finished_part=绝缘体
+target=利润
+explicit_weight=0.7800
+ugency_level=NULL

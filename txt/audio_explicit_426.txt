@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=水泵
+finished_part=密封圈
+target=利润
+explicit_weight=0.6400
+ugency_level=NULL

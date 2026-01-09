@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=变速器单元
+finished_part=油散热器
+target=时间
+explicit_weight=NULL
+ugency_level=重要

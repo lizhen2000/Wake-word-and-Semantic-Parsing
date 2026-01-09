@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=悬挂模块
+finished_part=右连杆
+target=时间
+explicit_weight=0.6800
+ugency_level=NULL

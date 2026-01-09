@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=冷却风扇
+finished_part=第一片叶片
+target=碳排放
+explicit_weight=0.8800
+ugency_level=NULL

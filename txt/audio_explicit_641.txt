@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=激光雷达传感器
+finished_part=杆
+target=利润
+explicit_weight=0.8500
+ugency_level=NULL

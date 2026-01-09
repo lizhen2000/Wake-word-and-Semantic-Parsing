@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=安全气囊系统
+finished_part=气体发生器
+target=利润
+explicit_weight=NULL
+ugency_level=一般

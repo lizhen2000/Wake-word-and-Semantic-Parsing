@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=悬挂弹簧
+finished_part=缓冲块
+target=利润
+explicit_weight=0.6500
+ugency_level=NULL

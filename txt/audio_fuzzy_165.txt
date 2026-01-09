@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=喷油器
+finished_part=回位弹簧
+target=碳排放
+explicit_weight=NULL
+ugency_level=一般

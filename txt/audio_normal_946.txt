@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=电机控制器
+finished_part=锁止离合器
+target=利润
+explicit_weight=NULL
+ugency_level=一般

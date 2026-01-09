@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=暖风芯
+finished_part=密封泡沫
+target=碳排放
+explicit_weight=NULL
+ugency_level=一般

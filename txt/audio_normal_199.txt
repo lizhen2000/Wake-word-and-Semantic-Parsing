@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=GPS模块
+finished_part=信号放大器
+target=时间
+explicit_weight=NULL
+ugency_level=非常重要

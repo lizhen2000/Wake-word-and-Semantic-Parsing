@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=雷达传感器
+finished_part=射频电子元件
+target=利润
+explicit_weight=0.8100
+ugency_level=NULL

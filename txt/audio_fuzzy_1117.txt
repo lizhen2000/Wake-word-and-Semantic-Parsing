@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=液压阀
+finished_part=驱动电子组件
+target=时间
+explicit_weight=NULL
+ugency_level=重要

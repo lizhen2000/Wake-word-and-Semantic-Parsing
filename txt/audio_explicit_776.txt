@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=交流发电机
+finished_part=定子线圈
+target=利润
+explicit_weight=0.6900
+ugency_level=NULL

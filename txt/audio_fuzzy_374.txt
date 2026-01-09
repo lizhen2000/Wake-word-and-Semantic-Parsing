@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=配电箱
+finished_part=保险丝组件
+target=利润
+explicit_weight=NULL
+ugency_level=重要

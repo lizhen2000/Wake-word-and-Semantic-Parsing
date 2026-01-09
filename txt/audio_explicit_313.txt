@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=驱动电机
+finished_part=启动离合器
+target=时间
+explicit_weight=0.6400
+ugency_level=NULL

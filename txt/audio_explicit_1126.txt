@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=催化转换器
+finished_part=入口管
+target=碳排放
+explicit_weight=0.7200
+ugency_level=NULL

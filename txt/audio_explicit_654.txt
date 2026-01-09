@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=变速器单元
+finished_part=电子控制单元
+target=时间
+explicit_weight=0.7000
+ugency_level=NULL

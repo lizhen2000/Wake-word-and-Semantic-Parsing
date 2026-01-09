@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=显示面板
+finished_part=前玻璃
+target=利润
+explicit_weight=NULL
+ugency_level=一般

@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=暖风芯
+finished_part=密封圈
+target=利润
+explicit_weight=NULL
+ugency_level=非常重要

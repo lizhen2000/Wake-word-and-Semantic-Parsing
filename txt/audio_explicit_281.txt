@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电机控制器
+finished_part=轴承座
+target=碳排放
+explicit_weight=0.6700
+ugency_level=NULL

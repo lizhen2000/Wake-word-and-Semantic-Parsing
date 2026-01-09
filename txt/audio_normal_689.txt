@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=水泵
+finished_part=密封圈
+target=时间
+explicit_weight=NULL
+ugency_level=一般

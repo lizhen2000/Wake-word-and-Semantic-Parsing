@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=变速器单元
+finished_part=一二杆
+target=碳排放
+explicit_weight=0.6000
+ugency_level=NULL

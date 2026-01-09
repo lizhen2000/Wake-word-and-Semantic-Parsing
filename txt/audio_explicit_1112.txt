@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=液压阀
+finished_part=安装模块
+target=时间
+explicit_weight=0.7400
+ugency_level=NULL

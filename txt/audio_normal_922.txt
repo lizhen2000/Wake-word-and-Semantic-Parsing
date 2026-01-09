@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=液压阀
+finished_part=电子控制单元
+target=时间
+explicit_weight=NULL
+ugency_level=重要

@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=催化转换器
+finished_part=入口管
+target=时间
+explicit_weight=0.7400
+ugency_level=NULL

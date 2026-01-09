@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=水泵
+finished_part=垫片
+target=碳排放
+explicit_weight=0.7300
+ugency_level=NULL

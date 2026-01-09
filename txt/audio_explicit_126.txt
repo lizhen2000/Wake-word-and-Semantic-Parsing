@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=配电箱
+finished_part=保险丝组件
+target=时间
+explicit_weight=0.7900
+ugency_level=NULL

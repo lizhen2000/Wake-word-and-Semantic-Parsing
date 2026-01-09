@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=冷却风扇
+finished_part=支撑杆
+target=利润
+explicit_weight=0.7400
+ugency_level=NULL

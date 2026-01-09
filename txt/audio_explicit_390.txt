@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=泊车传感器
+finished_part=电缆
+target=利润
+explicit_weight=0.9200
+ugency_level=NULL

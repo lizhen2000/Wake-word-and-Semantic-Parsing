@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电动助力转向泵
+finished_part=盖板
+target=碳排放
+explicit_weight=0.8200
+ugency_level=NULL

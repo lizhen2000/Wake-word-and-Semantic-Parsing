@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=液压阀
+finished_part=油冷却器
+target=利润
+explicit_weight=0.6900
+ugency_level=NULL

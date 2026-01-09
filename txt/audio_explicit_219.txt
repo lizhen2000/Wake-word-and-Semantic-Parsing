@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=驱动电机
+finished_part=前外壳
+target=利润
+explicit_weight=0.6000
+ugency_level=NULL

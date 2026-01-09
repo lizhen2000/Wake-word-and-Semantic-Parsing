@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=逆变器单元
+finished_part=门齿轮
+target=碳排放
+explicit_weight=0.8300
+ugency_level=NULL

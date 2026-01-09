@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=转向系统
+finished_part=电子控制单元
+target=利润
+explicit_weight=0.8300
+ugency_level=NULL

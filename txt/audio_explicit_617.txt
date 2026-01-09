@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=交流发电机
+finished_part=转子轴
+target=利润
+explicit_weight=0.6600
+ugency_level=NULL

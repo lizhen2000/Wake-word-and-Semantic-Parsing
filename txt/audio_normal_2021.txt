@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=电池组
+finished_part=第一模块
+target=利润
+explicit_weight=NULL
+ugency_level=一般

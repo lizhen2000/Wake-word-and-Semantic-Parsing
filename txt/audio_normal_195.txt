@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=GPS模块
+finished_part=金属屏蔽罩
+target=利润
+explicit_weight=NULL
+ugency_level=重要

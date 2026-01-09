@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=电池组
+finished_part=热垫片
+target=时间
+explicit_weight=NULL
+ugency_level=重要

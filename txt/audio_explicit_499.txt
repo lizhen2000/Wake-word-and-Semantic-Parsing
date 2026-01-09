@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=制动模块
+finished_part=齿轮毂
+target=利润
+explicit_weight=0.6500
+ugency_level=NULL

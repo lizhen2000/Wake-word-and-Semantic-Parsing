@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=变速控制模块
+finished_part=连接器
+target=时间
+explicit_weight=0.7100
+ugency_level=NULL

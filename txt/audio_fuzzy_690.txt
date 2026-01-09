@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=制动模块
+finished_part=行星齿轮
+target=利润
+explicit_weight=NULL
+ugency_level=一般

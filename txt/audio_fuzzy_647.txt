@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=液压阀
+finished_part=服务杆
+target=时间
+explicit_weight=NULL
+ugency_level=一般

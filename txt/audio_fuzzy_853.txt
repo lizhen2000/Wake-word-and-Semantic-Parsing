@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=变速器单元
+finished_part=二级轴
+target=碳排放
+explicit_weight=NULL
+ugency_level=一般

@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=水泵
+finished_part=盖板
+target=时间
+explicit_weight=0.6200
+ugency_level=NULL

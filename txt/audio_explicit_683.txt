@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=燃油泵
+finished_part=泵轮毂
+target=时间
+explicit_weight=0.8400
+ugency_level=NULL

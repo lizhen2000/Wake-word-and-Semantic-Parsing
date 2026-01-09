@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=ABS模块
+finished_part=电磁阀
+target=碳排放
+explicit_weight=0.7100
+ugency_level=NULL

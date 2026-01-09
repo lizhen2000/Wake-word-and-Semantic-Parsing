@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=驱动电机
+finished_part=转子轴
+target=碳排放
+explicit_weight=NULL
+ugency_level=非常重要

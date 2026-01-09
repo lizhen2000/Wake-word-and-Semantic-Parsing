@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=逆变器单元
+finished_part=基座框架
+target=利润
+explicit_weight=0.6900
+ugency_level=NULL

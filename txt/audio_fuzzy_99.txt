@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=冷却风扇
+finished_part=控制器电路板
+target=利润
+explicit_weight=NULL
+ugency_level=一般

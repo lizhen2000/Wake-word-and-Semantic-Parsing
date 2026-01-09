@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=冷却液储液罐
+finished_part=储罐罐
+target=利润
+explicit_weight=NULL
+ugency_level=一般

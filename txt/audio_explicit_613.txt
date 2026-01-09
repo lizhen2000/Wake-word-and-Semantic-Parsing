@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电动助力转向泵
+finished_part=控制电路板
+target=利润
+explicit_weight=0.8600
+ugency_level=NULL

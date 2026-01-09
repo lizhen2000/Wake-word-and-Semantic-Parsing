@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=驱动电机
+finished_part=电机电子控制单元
+target=利润
+explicit_weight=0.7800
+ugency_level=NULL

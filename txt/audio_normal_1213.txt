@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=制动模块
+finished_part=驱动电子组件
+target=时间
+explicit_weight=NULL
+ugency_level=非常重要

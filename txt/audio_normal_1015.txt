@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=转向柱
+finished_part=倾斜弹簧
+target=碳排放
+explicit_weight=NULL
+ugency_level=非常重要

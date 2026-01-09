@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=节气门体
+finished_part=轴承
+target=碳排放
+explicit_weight=0.6800
+ugency_level=NULL

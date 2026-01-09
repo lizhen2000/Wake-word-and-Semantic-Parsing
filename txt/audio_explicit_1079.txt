@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电动座椅调节器
+finished_part=手动释放杆
+target=碳排放
+explicit_weight=0.7300
+ugency_level=NULL

@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=液压阀
+finished_part=服务杆
+target=利润
+explicit_weight=0.6100
+ugency_level=NULL

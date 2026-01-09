@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=激光雷达传感器
+finished_part=安装轮毂
+target=利润
+explicit_weight=NULL
+ugency_level=非常重要

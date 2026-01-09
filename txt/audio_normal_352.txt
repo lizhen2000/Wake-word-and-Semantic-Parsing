@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=转向系统
+finished_part=右侧的横拉杆
+target=利润
+explicit_weight=NULL
+ugency_level=一般

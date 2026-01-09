@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=ECU控制单元
+finished_part=安装板
+target=利润
+explicit_weight=NULL
+ugency_level=一般

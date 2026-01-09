@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=空调
+finished_part=排水管
+target=碳排放
+explicit_weight=NULL
+ugency_level=一般

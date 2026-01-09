@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=转向柱
+finished_part=倾斜调节杆
+target=时间
+explicit_weight=0.6700
+ugency_level=NULL

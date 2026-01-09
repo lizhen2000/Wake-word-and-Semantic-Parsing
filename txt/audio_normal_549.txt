@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=转向柱
+finished_part=线束线束
+target=时间
+explicit_weight=NULL
+ugency_level=重要

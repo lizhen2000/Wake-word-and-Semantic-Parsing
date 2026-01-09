@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=电动助力转向泵
+finished_part=转子
+target=利润
+explicit_weight=NULL
+ugency_level=重要

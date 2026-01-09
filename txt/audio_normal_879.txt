@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=曲轴传感器
+finished_part=连接器
+target=利润
+explicit_weight=NULL
+ugency_level=重要

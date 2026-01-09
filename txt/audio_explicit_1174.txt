@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=冷却风扇
+finished_part=风扇控制单元
+target=时间
+explicit_weight=0.6200
+ugency_level=NULL

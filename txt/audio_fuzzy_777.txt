@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=喷油器
+finished_part=O形密封圈
+target=时间
+explicit_weight=NULL
+ugency_level=重要

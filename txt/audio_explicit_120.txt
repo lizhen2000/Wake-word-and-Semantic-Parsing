@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=催化转换器
+finished_part=法兰
+target=利润
+explicit_weight=0.8500
+ugency_level=NULL

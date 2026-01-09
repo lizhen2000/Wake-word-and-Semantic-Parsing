@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=点火线圈
+finished_part=安装支架
+target=时间
+explicit_weight=0.8400
+ugency_level=NULL

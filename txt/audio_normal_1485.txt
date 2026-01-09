@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=雷达传感器
+finished_part=安装杆
+target=碳排放
+explicit_weight=NULL
+ugency_level=重要

@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=前照灯总成
+finished_part=安装支架
+target=利润
+explicit_weight=NULL
+ugency_level=一般

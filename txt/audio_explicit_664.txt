@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电池充电器
+finished_part=整流器
+target=时间
+explicit_weight=0.6300
+ugency_level=NULL

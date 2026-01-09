@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=排气系统
+finished_part=支撑杆
+target=时间
+explicit_weight=0.8000
+ugency_level=NULL

@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=驱动电机
+finished_part=转子轴
+target=时间
+explicit_weight=NULL
+ugency_level=重要

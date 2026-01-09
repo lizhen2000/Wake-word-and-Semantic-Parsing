@@ -1,0 +1,6 @@
+intent_type=普通
+product_name=显示面板
+finished_part=面板支架
+target=时间
+explicit_weight=NULL
+ugency_level=一般

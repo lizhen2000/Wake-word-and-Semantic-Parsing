@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=电池充电器
+finished_part=外壳螺丝
+target=时间
+explicit_weight=0.7800
+ugency_level=NULL

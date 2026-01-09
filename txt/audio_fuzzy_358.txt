@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=电动助力转向泵
+finished_part=轴
+target=时间
+explicit_weight=NULL
+ugency_level=一般

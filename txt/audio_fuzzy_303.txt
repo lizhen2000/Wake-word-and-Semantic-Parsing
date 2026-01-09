@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=逆变器单元
+finished_part=电容组
+target=利润
+explicit_weight=NULL
+ugency_level=非常重要

@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=燃油泵
+finished_part=驱动轴
+target=时间
+explicit_weight=0.6800
+ugency_level=NULL

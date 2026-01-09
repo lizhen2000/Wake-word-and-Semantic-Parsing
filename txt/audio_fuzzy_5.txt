@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=燃油滤清器
+finished_part=安装夹具
+target=时间
+explicit_weight=NULL
+ugency_level=重要

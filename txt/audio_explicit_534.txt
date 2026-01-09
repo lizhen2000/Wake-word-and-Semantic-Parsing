@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=线束
+finished_part=分支电缆B
+target=利润
+explicit_weight=0.6300
+ugency_level=NULL

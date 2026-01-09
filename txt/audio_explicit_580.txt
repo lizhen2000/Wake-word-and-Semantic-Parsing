@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=ECU控制单元
+finished_part=传感器接口
+target=碳排放
+explicit_weight=0.7200
+ugency_level=NULL

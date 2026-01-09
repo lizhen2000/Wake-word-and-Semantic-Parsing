@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=悬挂模块
+finished_part=上臂
+target=碳排放
+explicit_weight=0.8600
+ugency_level=NULL

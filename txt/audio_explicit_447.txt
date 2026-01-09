@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=燃油泵
+finished_part=滤网
+target=利润
+explicit_weight=0.6600
+ugency_level=NULL

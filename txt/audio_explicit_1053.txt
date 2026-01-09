@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=空调
+finished_part=鼓风机
+target=时间
+explicit_weight=0.7200
+ugency_level=NULL

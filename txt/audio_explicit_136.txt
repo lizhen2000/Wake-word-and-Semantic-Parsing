@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=悬挂弹簧
+finished_part=防尘盖
+target=时间
+explicit_weight=0.8100
+ugency_level=NULL

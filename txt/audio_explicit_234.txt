@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=ABS模块
+finished_part=螺丝
+target=时间
+explicit_weight=0.9300
+ugency_level=NULL

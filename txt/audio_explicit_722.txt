@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=冷却液储液罐
+finished_part=水平传感器
+target=时间
+explicit_weight=0.9400
+ugency_level=NULL

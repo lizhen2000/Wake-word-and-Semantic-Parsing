@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=配电箱
+finished_part=主总线
+target=利润
+explicit_weight=0.8500
+ugency_level=NULL

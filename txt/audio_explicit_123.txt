@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=曲轴传感器
+finished_part=外壳
+target=时间
+explicit_weight=0.8300
+ugency_level=NULL

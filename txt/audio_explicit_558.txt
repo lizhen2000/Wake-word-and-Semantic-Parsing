@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=泊车传感器
+finished_part=外壳
+target=碳排放
+explicit_weight=0.8700
+ugency_level=NULL

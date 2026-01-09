@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=油泵
+finished_part=过滤网
+target=时间
+explicit_weight=0.7900
+ugency_level=NULL

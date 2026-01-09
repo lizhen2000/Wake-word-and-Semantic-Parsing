@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=散热器
+finished_part=冷却散热片
+target=碳排放
+explicit_weight=0.8400
+ugency_level=NULL

@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=安全气囊系统
+finished_part=扩散器
+target=碳排放
+explicit_weight=0.6400
+ugency_level=NULL

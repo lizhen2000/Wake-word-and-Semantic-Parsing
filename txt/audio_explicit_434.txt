@@ -1,0 +1,6 @@
+intent_type=明确
+product_name=油泵
+finished_part=出口管
+target=时间
+explicit_weight=0.8800
+ugency_level=NULL

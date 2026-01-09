@@ -1,0 +1,6 @@
+intent_type=模糊
+product_name=制动助力器
+finished_part=真空软管
+target=利润
+explicit_weight=NULL
+ugency_level=一般
